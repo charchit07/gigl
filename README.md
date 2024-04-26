@@ -2,7 +2,7 @@
 
 <h1>About</h1>
 
-<h3> It's the Transaction Details App Having Statistics, Barchart And PieChart</h3>
+<h3> We will create a MySQL table to store user details and develop a REST API using Node.js (with Express) to handle user registration and login</h3>
 
 <h1>Tech Stack For Backend:</h1> <h3>NodeJs, Express, Bcrypt, Express-Session, MySQL for database </h3>
 
