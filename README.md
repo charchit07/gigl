@@ -15,6 +15,13 @@
 
 <hr>
 
+ <h3> I use MySQL table to store the user's details </h3>
+
+ ![gigl6](https://github.com/charchit07/gigl/assets/110049484/7b6aa543-ea11-4ca9-8591-ae54500d2fd4)
+
+<hr>
+
+
  <h3> User Register </h3>
 
 
