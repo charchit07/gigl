@@ -1,12 +1,12 @@
-<h1>Roxiler System</h1>
+<h1>GIGL</h1>
 
 <h1>About</h1>
 
 <h3> It's the Transaction Details App Having Statistics, Barchart And PieChart</h3>
 
-<h1>Tech Stack For Backend :</h1> <h3>NodeJs, Express, Mongoose, Mongodb </h3>
+<h1>Tech Stack For Backend:</h1> <h3>NodeJs, Express, Bcrypt, Express-Session, MySQL for database </h3>
 
-<h1>Features:</h1> <h3>Transaction Router, Statistics Router, BarChart Router, Pie Chart Router, Cart Page</h3>
+<h1>Features:</h1> <h3>User Register, User Login</h3>
 
 <h1>Backend Deployment Link </h1>
 
