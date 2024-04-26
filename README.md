@@ -27,11 +27,16 @@
 ![gigl3](https://github.com/charchit07/gigl/assets/110049484/765b3493-bd5e-4b5e-9ce2-770140580000)
 
 <hr>
+ <h3> User already register </h3>
 
+![gigl4](https://github.com/charchit07/gigl/assets/110049484/21c589bd-7ffa-48da-a6af-a1677bfd811d)
 
+<hr>
+ <h3> User already login </h3
 
+![gigl5](https://github.com/charchit07/gigl/assets/110049484/11441164-29f7-4a3f-96d4-2683a476d607)
 
-
+<hr>
 
 
 
